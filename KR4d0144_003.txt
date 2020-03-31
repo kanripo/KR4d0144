@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 毗陵集
-#+DATE: 2020-03-31 11:34:15.610389
+#+DATE: 2020-03-31 11:34:15.778906
 #+PROPERTY: ID KR4d0144
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR4d0144_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -160,7 +160,7 @@
 ¶
 　　送李滁州題庭前石竹花見寄¶
 ¶
-　　殷(鳥閑反)疑&KR0892;霞染巧類匣刀裁不怕南風熱能迎小暑¶
+　　殷(鳥閑反)疑曙霞染巧類匣刀裁不怕南風熱能迎小暑¶
 <pb:KR4d0144_WYG_003-7a>¶
 開遊蜂憐色好思婦感年催覽贈添離恨愁腸日㡬迴¶
 ¶
